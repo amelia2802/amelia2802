@@ -5,3 +5,6 @@
         <h6>LinkedIn: <h6>https://www.linkedin.com/in/amelia-dutta-40bb8a17b/</h4>
         <br>
         Join me on Github : https://github.com/amelia2802
+          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
+
