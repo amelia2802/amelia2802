@@ -6,5 +6,8 @@
         <br>
         Join me on Github : https://github.com/amelia2802
           
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
+ <br>
+ <br>         
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia2802&show_icons=true&theme=radical)(https://github.com/amelia2802/github-readme-stats)
+
 
