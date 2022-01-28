@@ -1,4 +1,4 @@
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1><img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">
  Hi, I’m Amelia Dutta </h1>
   <h2>👀 I’m interested in Web Development</h2>
   <h3>🌱 I’m currently pursuing B. tech in Information Technology</h3>
