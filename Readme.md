@@ -1,6 +1,6 @@
   <h1><img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">
  Hi, I’m Amelia Dutta </h1>
-  <h2> <img src="https://tenor.com/view/pusheen-harry-potter-broomstick-gif-14032704" width="40px"> I’m interested in Web Development</h2>
+  <h2> 🔮 I’m interested in Web Development</h2>
   <h3>🌱 I’m currently pursuing B. tech in Information Technology</h3>
   <h4>📫 How to reach me :</h4>
   
