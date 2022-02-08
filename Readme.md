@@ -5,8 +5,9 @@
   <h4>📫 How to reach me :</h4>
   
   
-  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/amelia-dutta-40bb8a17b/)](https://linkedin.com/in/amelia-dutta-40bb8a17b/)
-  - [![Instagram Badge](https://img.shields.io/badge/-Instagram-brown?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/duttaamelia/)](https://www.instagram.com/duttaamelia/)
+  [![Linkedin Badge](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-54.png)](https://linkedin.com/in/amelia-dutta-40bb8a17b/)
+  [![Instagram Badge](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-54.png)](https://www.instagram.com/duttaamelia/)
+  [![CodePen Badge](https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-54.png)](https://linkedin.com/in/amelia-dutta-40bb8a17b/)
 
   
           
