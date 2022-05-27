@@ -9,7 +9,9 @@
   [![Instagram Badge](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-54.png)](https://www.instagram.com/duttaamelia/)
   [![CodePen Badge](https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-54.png)](https://codepen.io/amelia2802/)
 
-  
+
+
+ 
           
 
           
@@ -21,3 +23,8 @@
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amelia2802.amelia2802)
+
+<h4>My Badges<h4>
+
+  
+![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
