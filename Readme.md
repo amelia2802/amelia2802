@@ -21,10 +21,12 @@
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amelia2802.amelia2802)
-
-<h4>My Badges<h4>
+<h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=50px> My Badges<h4>
 
   
 ![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amelia2802.amelia2802)
+
