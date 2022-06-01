@@ -1,4 +1,4 @@
-  <h1><img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="30px">
+<h1> <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width=5%>
  Hi, I’m Amelia Dutta </h1>
   <h2> 🔮 I’m interested in Web Development</h2>
   <h3>🌱 I’m currently pursuing B. tech in Information Technology</h3>
@@ -21,7 +21,7 @@
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
 
-<h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=50px> My Badges<h4>
+<h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=5%> My Badges<h4>
 
   
 ![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
