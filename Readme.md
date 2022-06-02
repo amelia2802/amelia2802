@@ -16,6 +16,7 @@
 
           
 ![Amelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia2802&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amelia2802&theme=github-light&hide_border=true)](https://git.io/streak-stats)
           
           
           
