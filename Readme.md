@@ -18,9 +18,10 @@
 ![Amelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia2802&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amelia2802&theme=github-light&hide_border=true)](https://git.io/streak-stats)
           
-          
-          
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amelia2802&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=5%> My Badges<h4>
 
