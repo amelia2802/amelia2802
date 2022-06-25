@@ -1,7 +1,10 @@
-<h1> <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width=5%>
- Hi, I’m Amelia Dutta </h1>
+<h1><img src="https://user-images.githubusercontent.com/49182604/175786588-517289a3-1038-4051-b90d-bc5c10070da0.png" width=19%>
+Hi, I’m Amelia Dutta</h1>
+ 
+ 
+
   <h2> 🔮 I’m interested in Web Development</h2>
-  <h3>🌱 I’m currently pursuing B. tech in Information Technology</h3>
+  <h3>🎓 I’m currently pursuing B. tech in Information Technology</h3>
   <h4>📫 How to reach me :</h4>
   
   
