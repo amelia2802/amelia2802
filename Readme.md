@@ -1,8 +1,8 @@
 <h1><img src="https://user-images.githubusercontent.com/49182604/175786588-517289a3-1038-4051-b90d-bc5c10070da0.png" width=19%>
 Hi, I’m Amelia Dutta</h1>
 
-Web Developer & Data Analyst
-----------------------------
+Web Developer
+-----------------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://amelia2802.github.io/Portfolio/)
