@@ -7,7 +7,8 @@ Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://amelia2802.github.io/Portfolio/)
 * ✉️  You can contact me at [amelia.dutta.02@gmail.co](mailto:amelia.dutta.02@gmail.co)
-* 🚀  I'm currently working on [App of Requirements](http://github.com/amelia2802/SIT_NEST-App-of-Requirements)
+* 🚀  I'm currently learning ⚛ React
+* 👉🏻 You can contribute on my open-source project [App of Requirements](http://github.com/amelia2802/SIT_NEST-App-of-Requirements)
 * 🤝  I'm open to collaborating on Interesting projects where I can learn new techs & replenish my skills
 * ⚡  Proud Slytherin💚
 
