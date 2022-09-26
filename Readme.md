@@ -46,6 +46,7 @@ Web Developer
   
 ![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
 
+[![@amelia2802's Holopin board](https://holopin.io/api/user/board?user=amelia2802)](https://holopin.io/@amelia2802)
 
 <b>Top Repositories</b>
 
