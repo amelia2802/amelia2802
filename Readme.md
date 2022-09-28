@@ -10,7 +10,7 @@ Web Developer
 * 🚀  I'm currently learning ⚛ React
 * 👉🏻 You can contribute on my open-source project [App of Requirements](http://github.com/amelia2802/SIT_NEST-App-of-Requirements)
 * 🤝  I'm open to collaborating on Interesting projects where I can learn new techs & replenish my skills
-* ⚡  Proud Slytherin💚
+* ⚡  Potterhead💚
 
 ### Skills
 
