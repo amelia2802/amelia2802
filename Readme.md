@@ -37,7 +37,6 @@ Web Developer
 
 <a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amelia2802&stroke=0f172a&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=0f172a&currStreakLabel=22c55e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/amelia2802"><img src="https://activity-graph.herokuapp.com/graph?username=amelia2802&bg_color=ffffff&color=0f172a&line=22c55e&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
