@@ -1,6 +1,5 @@
-<h1><img src="https://user-images.githubusercontent.com/49182604/175786588-517289a3-1038-4051-b90d-bc5c10070da0.png" width=19%>
-Hi, I’m Amelia Dutta</h1>
-
+<h1><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49182604/259927709-0fb05299-6937-4ac1-aba7-55fdce9cd94e.png" width=19%>
+Hi, I’m Amelia <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49182604/259926347-e3b6d6d4-4676-4ac6-9d56-1a3dad9d1bdb.png" width=19%> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49182604/259926438-59cda75a-3f33-4acb-8825-932beafa4b63.png" width=19%></h1>
 Web Developer
 -----------------------------
 
