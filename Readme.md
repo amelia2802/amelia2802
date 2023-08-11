@@ -1,6 +1,3 @@
-
-[![@amelia2802's Holopin board](https://holopin.io/api/user/board?user=amelia2802)](https://holopin.io/@amelia2802)
-
 <h1><img src="https://user-images.githubusercontent.com/49182604/175786588-517289a3-1038-4051-b90d-bc5c10070da0.png" width=19%>
 Hi, I’m Amelia Dutta</h1>
 
@@ -29,16 +26,18 @@ Web Developer
 
 [![ameliadutta's GitHub | Topics Over Time](https://stats.quine.sh/ameliadutta/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ameliadutta)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amelia2802&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=5%> My Badges<h4>
 
-  
+![aws-learning-cloud-essentials](https://github.com/amelia2802/amelia2802/assets/49182604/e3b6d6d4-4676-4ac6-9d56-1a3dad9d1bdb) ![aws-cloud-quest-cloud-practitioner](https://github.com/amelia2802/amelia2802/assets/49182604/59cda75a-3f33-4acb-8825-932beafa4b63)
+
 ![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
 
+[![@amelia2802's Holopin board](https://holopin.io/api/user/board?user=amelia2802)](https://holopin.io/@amelia2802)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amelia2802&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>Top Repositories</b>
-
 <div width="100%" align="center"><a href="https://github.com/amelia2802/SIT_NEST-App-of-Requirements" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amelia2802&repo=SIT_NEST-App-of-Requirements&title_color=22c55e&text_color=0f172a&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
