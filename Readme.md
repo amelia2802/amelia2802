@@ -23,15 +23,11 @@ Web Developer
 
 <p align="left"> <a href="https://www.codepen.io/amelia2802" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/amelia2802" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/amelia2802" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/duttaamelia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ameliadutta/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AmeliaDutta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
           
-<b>My GitHub Stats</b>
+[![ameliadutta's GitHub | Stats](https://stats.quine.sh/ameliadutta/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ameliadutta) <a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amelia2802&stroke=0f172a&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=0f172a&currStreakLabel=22c55e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/amelia2802"><img src="https://github-readme-stats.vercel.app/api?username=amelia2802&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=0f172a&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="amelia2802's GitHub stats" /></a>
+[![ameliadutta's GitHub | Languages Over Time](https://stats.quine.sh/ameliadutta/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ameliadutta)
 
-<a href="http://www.github.com/amelia2802"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amelia2802&stroke=0f172a&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=0f172a&currStreakLabel=22c55e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelia2802)](https://github.com/amelia2802/github-readme-stats)
+[![ameliadutta's GitHub | Topics Over Time](https://stats.quine.sh/ameliadutta/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ameliadutta)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amelia2802&no-bg=true&no-frame=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
