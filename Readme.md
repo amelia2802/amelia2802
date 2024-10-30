@@ -28,9 +28,11 @@ Hi, I’m Amelia</h1>
 
 [![ameliadutta's GitHub | Topics Over Time](https://stats.quine.sh/ameliadutta/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ameliadutta)
 
-<h4><img src="https://c.tenor.com/xF2V3DnM7soAAAAi/stars-yellow-stars.gif" width=5%> My Badges<h4>
+<h4>🎖️ My Badges 🎖️<h4>
 
-![aws-learning-cloud-essentials](https://github.com/amelia2802/amelia2802/assets/49182604/e3b6d6d4-4676-4ac6-9d56-1a3dad9d1bdb) ![aws-cloud-quest-cloud-practitioner](https://github.com/amelia2802/amelia2802/assets/49182604/59cda75a-3f33-4acb-8825-932beafa4b63)
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/e12971d6-f28d-4cb8-adb1-913b8a17860d)
+
+
 
 ![Codewars](https://www.codewars.com/users/amelia2802/badges/large?theme=dark)
 
