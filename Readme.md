@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a front-end developer with a B.Tech degree in 
 
 ## 🧑‍💻 About Me
 
+- 💼 Frontend Developer
 - 🎓 B.Tech in Information Technology
-- 💼 Currently working as a Frontend Developer
 - 🌱 Continuously learning and exploring new web technologies
 - 🚀 Offering freelance services for web development projects
 - 🔍 Actively looking for new opportunities
@@ -35,7 +35,8 @@ Here are some of my notable projects:
 
 - [LinkedIn](https://linkedin.com/in/ameliadutta)
 - [Twitter](https://twitter.com/ameliadutta)
-- [Personal Website/Blog](https://ameliadutta.netlify.app/)
+- [Personal Website](https://ameliadutta.netlify.app/)
+- [Blog](https://hashnode.com/@ameliadutta)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
