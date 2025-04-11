@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a front-end developer with a B.Tech degree in 
 
 Here are some of my notable projects:
 
-- [**SheHired**](https://github.com/amelia2802/SheHired): SheHired is a platform promoting equality and diversity by connecting women with inclusive companies offering diverse job opportunities.The project utilizes various technologies including React, Tailwind CSS, and React Router for the front end, and Python with Flask for the backend. Additional tools like Firebase and AWS are employed for observability, logging, and deployment.
+- [**SheHired**](https://github.com/SheHired): SheHired is a platform promoting equality and diversity by connecting women with inclusive companies offering diverse job opportunities.The project utilizes various technologies including React, Tailwind CSS, and React Router for the front end, and Python with Flask for the backend. Additional tools like Firebase and AWS are employed for observability, logging, and deployment.
 - [**Glossocure**](https://github.com/amelia2802/glossocure): Glossocure is a web application designed to help individuals overcome speaking anxiety, also known as glossophobia.This project was developed as part of the AWSGenAI Bootcamp and integrates Amazon Bedrock to provide a generative AI-enabled experience. 
 - [**Luvelicious Site**](https://github.com/amelia2802/ice-cream-site): Luvelicious Site is a dynamic ice cream website built using React.The site's notable features include dynamic ratings and total orders for each menu item, which were implemented using JavaScript and custom star rating displays. The project leverages React for building user interfaces, JavaScript for dynamic content generation, and CSS for styling to ensure a clean and responsive design.
 
